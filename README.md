@@ -30,11 +30,24 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+React can make a difficult app easier by splitting each part of the page into small reuseable components, meaning if your code breaks, you only have to check a certain component. React also can make it easy to store data(state) and easy to change/update it. 
+
+
 1. Describe component state.
+
+state is where you can store your data that your app needs. 
 
 1. Describe props.
 
+in my own words, props are used to pass data along your application. helps data flow. 
+
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+
+
+
+
+to change certain state/props would be setState(variableYouWantToChange)
+
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
